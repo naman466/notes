@@ -32,8 +32,79 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "0bdb13ac0e096d2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Learning/Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
+            }
+          },
+          {
+            "id": "956ddeae70a437da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kolmogorov Complexity and It's Applications/Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
+            }
+          },
+          {
+            "id": "c36a5b958144ff9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
+            }
+          },
+          {
+            "id": "3fc7ad19b99afaab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathematics/Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
+            }
+          },
+          {
+            "id": "1e4eddc74d1122f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Reading/Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -106,6 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Research Reading/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Test"
             }
           },
           {
@@ -124,11 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Research Reading/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Test"
             }
           },
           {
@@ -166,12 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Research Reading/Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Test"
             }
           },
           {
@@ -203,8 +277,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85ce330d254a2281",
+  "active": "53b0fccaf1df1654",
   "lastOpenFiles": [
+    "Mathematics/Test.md",
+    "Research Reading/Test.md",
+    "Machine Learning/Test.md",
+    "Kolmogorov Complexity and It's Applications/Test.md",
+    "Deep Learning/Test.md",
+    "Untitled",
     "Mathematics/Kolmogorov Complexity.md",
     "Research Reading",
     "Kolmogorov Complexity and It's Applications",
