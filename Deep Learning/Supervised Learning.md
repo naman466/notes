@@ -9,12 +9,12 @@
 
 In supervised learning, we make a model that takes an input x, and outputs a prediction y. Mathematically, the model can be described as f(x) and it's output is y. 
 
-$$ 
+$$
 y = f(x)
 $$
 The model also contains parameters which determine this relation/equation, so to be more precise, we can write it as 
 
-$$ 
+$$
 y = f(x, \phi) 
 $$
 where $\phi$ is the parameter vector. 
