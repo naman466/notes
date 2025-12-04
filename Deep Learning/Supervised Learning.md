@@ -21,7 +21,7 @@ where $\phi$ is the parameter vector.
 
 When we train or learn a mode, we attempt at finding parameters $\phi$ that make decent predictions from the input. We learn these parameters using a training dataset of N number of input and output pairs of examples $\{x_i, y_i\}$. 
 
-We quantify this degree of correctness/fit using a loss L. It is a scalar value which tells us how poorly our model performs for any given choice of parameters on given data. Since loss depends on only the parameters (x is always constant for any given data pair), we can treat the loss as a function of parameters ($L[\phi]$). When we train the model, we seek to find the value of $\phi$ which minimizes the value of $L[\phi]$.
+We quantify this degree of correctness/fit using a loss L. It is a scalar value which tells us how poorly our model performs for any given choice of parameters on given data. Since loss depends on only the parameters (x is always constant for any given data pair), we can treat the loss as a function of parameters ($L(\phi)$). When we train the model, we seek to find the value of $\phi$ which minimizes the value of $L(\phi)$.
 
 $$
 \hat{\phi} = \arg\min_{\phi} L(\phi)
