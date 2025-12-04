@@ -9,10 +9,14 @@
 
 In supervised learning, we make a model that takes an input x, and outputs a prediction y. Mathematically, the model can be described as f(x) and it's output is y. 
 
-$$ y = f(x)$$
+$$ 
+y = f(x)
+$$
 The model also contains parameters which determine this relation/equation, so to be more precise, we can write it as 
 
-$$ y = f(x, \phi) $$
+$$ 
+y = f(x, \phi) 
+$$
 where $\phi$ is the parameter vector. 
 
 When we train or learn a mode, we attempt at finding parameters $\phi$ that make decent predictions from the input. We learn these parameters using a training dataset of N number of input and output pairs of examples $\{x_i, y_i\}$. 
